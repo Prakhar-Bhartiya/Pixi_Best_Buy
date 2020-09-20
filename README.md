@@ -10,7 +10,7 @@
 
 # Outcome :
 
-<img src="img/1.JPEG" width=200 height=400><img src="img/2.JPEG" width=200 height=400>
+<img src="img/1.jpeg" width=200 height=400><img src="img/2.jpeg" width=200 height=400>
 
 <br><b>[Video]</b> = https://drive.google.com/file/d/1LKl_Lc1Dobi7GGCGOQqvA8llZp5OGZDn/view?usp=sharing</br>
 
@@ -19,7 +19,7 @@
 
 # Future : 
 <br>The next phase of development for us would be the integration of Indoor navigation using Augmented Reality and suggesting a better product based on the ingredients and Nutritional Score using machine learning. The indoor navigation can be used to guide the customer to the suggested product.</br>
-<img src="img/main.JPEG" width=800 height=400>
+<img src="img/main.jpeg" width=800 height=400>
 
 
 
