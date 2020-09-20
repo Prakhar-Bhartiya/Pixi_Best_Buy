@@ -5,17 +5,21 @@
 
 # Solution :
 <br>Once the customer captures the barcode of the product, it provides all the information aspects of the product such as it’s nutrition score, energy values, allergens, etc. , which may be ignored or may not come in the direct hindsight of customers using Augmented Reality to provide a reinvented shopping experience.</br>
-<img src="img/1.JPEG"><img src="2BHK_Render/2.JPEG">
 
+<img src="img/wf.PNG" width=800 height=400>
 
+# Outcome :
 
-Vide0 = https://drive.google.com/file/d/1LKl_Lc1Dobi7GGCGOQqvA8llZp5OGZDn/view?usp=sharing
-<b>[PS: Prototype created in a day just to get the concept for future possibility by applying Machine Learning and Data mining for better data and representation using Augmented Reality ] </b>
+<img src="img/1.JPEG" width=500 height=1000><img src="img/2.JPEG" width=500 height=1000>
 
-Pr0ject = https://drive.google.com/drive/folders/1Tnt44TNQUVhDom2MZAnlXgcQX0usBSBZ?usp=sharing
-<b>[PS: Its a unity3D project + Python Script for server] </b>
+<br><b>[Video]</b> = https://drive.google.com/file/d/1LKl_Lc1Dobi7GGCGOQqvA8llZp5OGZDn/view?usp=sharing</br>
+
+<br><b>[Full Project]</b> = https://drive.google.com/drive/folders/1Tnt44TNQUVhDom2MZAnlXgcQX0usBSBZ?usp=sharing</br>
+
 
 # Future : 
 <br>The next phase of development for us would be the integration of Indoor navigation using Augmented Reality and suggesting a better product based on the ingredients and Nutritional Score using machine learning. The indoor navigation can be used to guide the customer to the suggested product.</br>
+<img src="img/main.JPEG" width=1280 height=720>
+
 
 
