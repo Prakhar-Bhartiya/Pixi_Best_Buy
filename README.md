@@ -1,6 +1,9 @@
 # Pixi_Best_Buy
 
-PPT = Inside pr0ject
+#Inspiration
+<br>The problem many customers face is the usage of misleading visualization of infographics by companies on the product, to make it look attractive. Once, the product looks catchy, customers buy that product and the negatives of the products such as its nutritional values are ignored. So, with keeping that in mind, we thought of building a customer effective solution.</br>
+
+
 
 Vide0 = https://drive.google.com/file/d/1LKl_Lc1Dobi7GGCGOQqvA8llZp5OGZDn/view?usp=sharing
 <b>[PS: Prototype created in a day just to get the concept for future possibility by applying Machine Learning and Data mining for better data and representation using Augmented Reality ] </b>
