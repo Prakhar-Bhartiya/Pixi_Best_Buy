@@ -5,6 +5,7 @@
 
 # Solution :
 <br>Once the customer captures the barcode of the product, it provides all the information aspects of the product such as it’s nutrition score, energy values, allergens, etc. , which may be ignored or may not come in the direct hindsight of customers using Augmented Reality to provide a reinvented shopping experience.</br>
+<img src="img/1.JPEG"><img src="2BHK_Render/2.JPEG">
 
 
 
